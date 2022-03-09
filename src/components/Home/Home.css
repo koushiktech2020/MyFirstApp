@@ -1,0 +1,9 @@
+.homeStyle {
+  width: 100vw;
+  height: 400px;
+  background-color: yellow;
+}
+
+.textStyle {
+  text-align: center;
+}

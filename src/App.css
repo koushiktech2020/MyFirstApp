@@ -1,0 +1,43 @@
+.helloReact {
+  background-color: #967afc;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.formStyle {
+  background-color: #fff;
+  height: 400px;
+  width: 800px;
+  border-radius: 10px;
+  border: 1px solid #7d7d7d;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+label {
+  font: 22px sans-serif;
+  color: #f90905;
+}
+
+input[type="text"] {
+  width: 70%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+.btn {
+  background-color: #02a80b;
+  margin-top: 20px;
+  height: 40px;
+  width: 100px;
+  border-width: 1px;
+  border-radius: 15px;
+  color: #fff;
+}
